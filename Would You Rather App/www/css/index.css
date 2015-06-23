@@ -1,0 +1,14 @@
+﻿body {
+    .button{
+               background-color: #fcff00;
+               color: #0026ff;
+               float: right;
+               border-radius: 12px;
+               font: underline 1.0em free_pixel;
+
+           }
+           .big-btn {
+               width: 90px;
+                   height: 40px;
+           }
+}
